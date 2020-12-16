@@ -1,2 +1,2 @@
 # Reviews Classifier
-IMDB Reviews Classification using NLP
+Reviews Classification using NLP
